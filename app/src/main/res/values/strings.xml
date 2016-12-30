@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ContextXML</string>
+    <string name="clickme">Long press me to show context menu</string>
+</resources>
